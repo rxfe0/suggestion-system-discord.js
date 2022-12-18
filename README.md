@@ -1,6 +1,6 @@
-# suggestion-system-discord.js
+# suggestion-system-discord.js version 14
 
-Full/Advanced Suggestion System - discord.js!
+Full/Advanced Suggestion System - discord.js version 14!
 
 The files: suggestion.js, suggestionSetup.js are models and should be pasted in your models folder! | For MongoDB!
 
