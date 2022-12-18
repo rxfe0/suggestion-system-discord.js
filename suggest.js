@@ -18,8 +18,6 @@ module.exports = {
 
         const description = options.getString('description')
 
-        const channel = guild.channels.cache.get('900238237010903090')
-
         const embed = new EmbedBuilder()
         .setColor('Orange')
         .setAuthor({ name: user.tag, iconURL: user.displayAvatarURL({dynamic: true})})
